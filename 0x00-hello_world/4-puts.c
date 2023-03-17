@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point prints Programming is like building a multilingual puzzle
+ * main - entry point
  * Return: always 0 (Success)
  */
 int main(void)
