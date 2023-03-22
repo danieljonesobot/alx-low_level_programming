@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * Main: Entry point
- * Description: long description
+ * main - entry point
  * Return: Return description
  */
 
