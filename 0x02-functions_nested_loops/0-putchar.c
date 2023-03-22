@@ -12,7 +12,7 @@ int main(void)
 
 	string = "_putchar";
 
-	for (postion = 0; string[position] != '\0'; position++)
+	for (position = 0; string[position] != '\0'; position++)
 		_putchar(string[position]);
 	_putchar('\n');
 	return (0);
