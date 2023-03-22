@@ -1,22 +1,19 @@
-#include <stdio.h>
 #include "main.h"
-
 /**
- * main- Entry point
- * Return: Alays 0
+ * Main: Entry point
+ * Description: long description
+ * Return: Return description
  */
 
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+	int position;
+	char *string;
 
+	string = "_putchar";
+
+	for (postion = 0; string[position] != '\0'; position++)
+		_putchar(string[position]);
+	_putchar('\n');
 	return (0);
 }
