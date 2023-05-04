@@ -1,15 +1,12 @@
-Bit Manipulation
-
-Summary
-In C progamming Language bit manipulation is the act of algorithmically manipulating bits or other pieces of data shorter than a byte.
+Bit manipulation is the act of algorithmically manipulating bits or other pieces of data shorter than a byte.
 
 Bitwise Operators
-&	Bitwise Binary AND Operator
-|	Bitwise Binary OR Operator
-^	Bitwise Binary XOR / Exclusive OR Operator
-~	Bitwise Binary Ones Complement Operator
-<<	Bitwise Binary Left Shift Operator
->>	Bitwise Binary Right Shift Operator
+1. &  Bitwise Binary AND Operator
+2. |  Bitwise Binary OR Operator
+3. ^  Bitwise Binary XOR / Exclusive OR Operator
+4. ~  Bitwise Binary Ones Complement Operator
+5. << Bitwise Binary Left Shift Operator
+6. >> Bitwise Binary Right Shift Operator
 
 Illustrations
 Bitwise Right shift operator >> is used to shift the binary sequence to the right side by the specified position.
